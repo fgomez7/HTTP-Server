@@ -1,6 +1,6 @@
 Programming Assignment 1
 
-Francisco Gomez 1775128
+Francisco Gomez
 
 __httpserver.c__:
 This is the main file. Where everything is ran and to which the header files are attached to. It is composed of multiple helper functions and one large main function body.  
